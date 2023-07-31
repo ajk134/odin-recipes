@@ -1,0 +1,16 @@
+.odd {
+    background-color: lightpink;
+    font-style: DejaVu Sans, sans-serif;
+}
+.banner {
+    font-size: 36px;
+    color: blue;
+}
+.class3 {
+    font-size: 24px;
+}
+.greenbar {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style: bold;
+}
